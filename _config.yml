@@ -1,0 +1,14 @@
+layout_spectrum: 0.12663409835658967
+typography_spectrum: 0.4028847662266344
+color:
+  brandStrength: 0.9217128553427756
+  lightness: 0.49080077302642167
+  saturation: 0.3586512254551053
+  rhythmicContrast: 0.46072116214782
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+name: nativitytestsite
